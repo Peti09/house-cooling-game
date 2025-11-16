@@ -1,7 +1,0 @@
-body{font-family:Arial,sans-serif;background:#f0f6ff;margin:0;padding:16px;display:flex;gap:20px;align-items:flex-start}
-#auth,#game,#leaderboard{background:#fff;border-radius:12px;padding:16px;box-shadow:0 6px 18px rgba(2,15,40,0.08);width:320px}
-#auth input{width:100%;padding:8px;margin:4px 0;border-radius:6px;border:1px solid #ccc}
-button{padding:10px 14px;border-radius:8px;border:0;background:#007bff;color:#fff;cursor:pointer;margin-top:4px}
-.door{width:120px;height:80px;border-radius:6px;border:2px solid #333;display:flex;align-items:center;justify-content:center;margin:8px auto}
-.door.open{background:#dff7ff}
-ol{padding-left:20px}
